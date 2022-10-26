@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Assets",
+    "\\Assets\\Scripts",
+    "\\Assets\\Scripts\\Controller",
+    "\\Assets\\Scripts\\Controller\\Action",
+    "\\Assets\\Scripts\\Controller\\Round",
+    "\\Assets\\Scripts\\Model",
+    "\\Assets\\Scripts\\Model\\Disk",
+    "\\Assets\\Scripts\\View"
+  ],
+  "SelectedNode": "\\Assets\\Scripts\\Controller\\Round\\RoundController.cs",
+  "PreviewInSolutionExplorer": false
+}
